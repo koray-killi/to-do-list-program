@@ -1,0 +1,2 @@
+Ahmetin evine gir,ahmetin ev,False
+Kitap oku,Oku la işte,True
